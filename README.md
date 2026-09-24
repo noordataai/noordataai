@@ -1,9 +1,13 @@
 # 💫 Hi 👋, I'm Noor Mohammad
-☁️ AWS Data Engineer | 4.6+ Years of IT Experience | Building Scalable Data Pipelines with Python, Apache PySpark, SQL, Unix/Linux commands, AWS Glue, PySpark, Athena, Lambda, Step Functions, S3, IAM, EMR, Airflow (MWAA), CloudFormation Stack, CloudWatch, CloudShell, EventBridge, SNS, DynamoDB, SQL Server, Aurora and RDS, Kafka, ETL / ELT, QuickSight, Docker
+☁️ AWS Data Engineer | 4.6+ Years of IT Experience | Building Scalable Data Pipelines with Python, Apache PySpark, SQL, Unix/Linux commands, AWS Glue, PySpark, Athena, Lambda, Step Functions, S3, IAM, EMR, Airflow (MWAA), CloudFormation Stack, CloudWatch, CloudShell, EventBridge, SNS, DynamoDB, SQL Server, Aurora and RDS, Kafka, ETL / ELT, QuickSight, Docker, VPC
 
-Exploring Gen AI tools, AWS ai Tools (Amazon Kiro, Amazon Bedrock, Amazon Q) , ChatGPT (OpenAI), Claude ai, Gemini, Perplexity AI, Use.ai, Bing
+Exploring Gen AI tools, AWS ai Tools (Amazon Kiro, Amazon Bedrock, Amazon Q) , ChatGPT (OpenAI), Claude ai, Gemini, Perplexity AI, Use.ai, Microsoft Bing.
 
-Email Me 👉 ✉️ noor.data.ai@gmail.com For Collaboration/Project or Anything Else. 😊😊
+Open to opportunities: AWS Data Engineer | Cloud Data Engineer | Data Engineer | ETL Developer | Data Platform Engineer.
+
+📩 Open to connecting with recruiters, hiring managers, and professionals working in Cloud & Data Engineering Domin.
+
+Email Me 👉 ✉️ noor.data.ai@gmail.com  | 📩 noor.aidata.engineer@outlook.com For Collaboration/Project or Anything Else. 😊😊
 
 <!-- Snake Game Repo View -->
 
